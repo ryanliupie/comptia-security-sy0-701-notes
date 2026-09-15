@@ -17,6 +17,10 @@ Down below ↓ contain my notes regarding the information to pass the CompTIA Se
 ## Markdown Notes 🖳 (Still in progress, apologies)
 - <h3> <a href="organized_digital_domains/01d_general_security_concepts.md"> Section 1: General Security Concepts </a> </h3>
 
+- <h3> <a href="organized_digital_domains/02d_threats_vulnerabilities_mitigations.md"> Section 2: Threats, Vulnerabilities, and Mitigations </a> </h3>
+
+- <h3> <a href="organized_digital_domains/03d_security_architecture.md"> Section 3: Security Architecture</a> </h3>
+
 ## Exam Compass 
 - <h3> <a href="exam_compass_quizzes/exam_compass_quiz_review.md"> Quizzes </a> </h3>
 
